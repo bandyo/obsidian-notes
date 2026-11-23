@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>我的笔记</title>
+      <link>https://bandyo.github.io/obsidian-notes</link>
+      <description>最近的10条笔记 on 我的笔记</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>obsidian</title>
+    <link>https://bandyo.github.io/obsidian-notes/tags/obsidian</link>
+    <guid>https://bandyo.github.io/obsidian-notes/tags/obsidian</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 23 Nov 2026 08:30:41 GMT</pubDate>
+  </item><item>
+    <title>速查</title>
+    <link>https://bandyo.github.io/obsidian-notes/tags/%E9%80%9F%E6%9F%A5</link>
+    <guid>https://bandyo.github.io/obsidian-notes/tags/%E9%80%9F%E6%9F%A5</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 23 Nov 2026 08:30:41 GMT</pubDate>
+  </item><item>
+    <title>obsidian。</title>
+    <link>https://bandyo.github.io/obsidian-notes/tags/obsidian%E3%80%82</link>
+    <guid>https://bandyo.github.io/obsidian-notes/tags/obsidian%E3%80%82</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 23 Nov 2026 08:30:41 GMT</pubDate>
+  </item><item>
+    <title>工具</title>
+    <link>https://bandyo.github.io/obsidian-notes/tags/%E5%B7%A5%E5%85%B7</link>
+    <guid>https://bandyo.github.io/obsidian-notes/tags/%E5%B7%A5%E5%85%B7</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 23 Nov 2026 08:30:41 GMT</pubDate>
+  </item><item>
+    <title>首页</title>
+    <link>https://bandyo.github.io/obsidian-notes/tags/%E9%A6%96%E9%A1%B5</link>
+    <guid>https://bandyo.github.io/obsidian-notes/tags/%E9%A6%96%E9%A1%B5</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 23 Nov 2026 08:30:41 GMT</pubDate>
+  </item><item>
+    <title>笔记</title>
+    <link>https://bandyo.github.io/obsidian-notes/tags/%E7%AC%94%E8%AE%B0</link>
+    <guid>https://bandyo.github.io/obsidian-notes/tags/%E7%AC%94%E8%AE%B0</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 23 Nov 2026 08:30:41 GMT</pubDate>
+  </item><item>
+    <title>指南</title>
+    <link>https://bandyo.github.io/obsidian-notes/tags/%E6%8C%87%E5%8D%97</link>
+    <guid>https://bandyo.github.io/obsidian-notes/tags/%E6%8C%87%E5%8D%97</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 23 Nov 2026 08:30:41 GMT</pubDate>
+  </item><item>
+    <title>标签索引</title>
+    <link>https://bandyo.github.io/obsidian-notes/tags/</link>
+    <guid>https://bandyo.github.io/obsidian-notes/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 23 Nov 2026 08:30:41 GMT</pubDate>
+  </item><item>
+    <title>Obsidian 快捷技巧</title>
+    <link>https://bandyo.github.io/obsidian-notes/obsidian-%E5%BF%AB%E6%8D%B7%E6%8A%80%E5%B7%A7</link>
+    <guid>https://bandyo.github.io/obsidian-notes/obsidian-%E5%BF%AB%E6%8D%B7%E6%8A%80%E5%B7%A7</guid>
+    <description><![CDATA[ Obsidian 快捷技巧 双向链接 用 [[笔记标题]] 链接到另一篇笔记，例如 如何发布笔记。 标签 在正文任意位置写 #标签名，例如 obsidian。 Callout 提示块 &gt; [!note] 标题 &gt; 内容 这是一个提示块 Quartz 会把它渲染成漂亮的提示框。 图表 支持 Mermaid： graph LR A[Obsidian 写作] --&gt; B[Git 同步] B --&gt; C[Quartz 构建] C --&gt; D[GitHub Pages] obsidian 速查. ]]></description>
+    <pubDate>Mon, 23 Nov 2026 08:01:24 GMT</pubDate>
+  </item><item>
+    <title>Obsidian</title>
+    <link>https://bandyo.github.io/obsidian-notes/obsidian</link>
+    <guid>https://bandyo.github.io/obsidian-notes/obsidian</guid>
+    <description><![CDATA[ Obsidian Obsidian 是一款基于本地 Markdown 文件的笔记软件。这个项目的 content/ 文件夹本身就是一个 Obsidian 库，你可以直接用 Obsidian 打开它。 支持双向链接、反向链接、关系图谱 支持 callout、Mermaid 图表、标签等 Obsidian Flavored Markdown 笔记以普通 .md 文件保存，不锁定在专有格式里 相关：如何发布笔记、Obsidian 快捷技巧 工具. ]]></description>
+    <pubDate>Mon, 23 Nov 2026 08:01:24 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
